@@ -1,0 +1,6 @@
+{
+  "name": "FALLOUT Quantum Ecosystem",
+  "description": "An autonomous quantum trust orchestration system featuring AI-driven rekeying, interactive landing page, and advanced UX protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

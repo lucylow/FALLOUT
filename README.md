@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Qiskit](https://img.shields.io/badge/Qiskit-1.0+-purple.svg)](https://qiskit.org/)
-[![Gemini AI](https://img.shields.io/badge/Gemini_AI-2.0_Pro-cyan.svg)](https://ai.google.dev/)
+[![Gemini AI](https://img.shields.io/badge/Gemini_AI-2.0_Pro-cyan.svg)](https://ai.google.dev/) 
 
 **FALLOUT** is an autonomous quantum key orchestration system that combines **Gemini AI agents** with **Qiskit‑powered BB84 quantum key distribution (QKD)**. It delivers real‑time, trust‑aware encryption key management for mission‑critical environments – from enterprise data centers to military drone swarms.
 
